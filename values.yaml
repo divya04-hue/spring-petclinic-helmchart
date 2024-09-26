@@ -9,7 +9,7 @@ image:
   repository: harbor.anpslab.com/devsecops/spring-petclinic
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: v1.0.23
+  tag: v1.0.24
 
 imagePullSecrets: []
 nameOverride: "spring-petclinic"
